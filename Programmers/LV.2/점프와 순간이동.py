@@ -8,5 +8,4 @@ def solution(n):
             answer += 1
     return answer
 
-print("answer = ", solution(10))
-
+print("결과 = ", solution(10))
