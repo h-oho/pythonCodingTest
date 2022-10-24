@@ -11,4 +11,4 @@ def solution(n, words):
             return [(i%n)+1, (i//n)+1]
     return[0,0]
 
-print("결과 = ", solution(2, ["hello", "one", "even", "rever", "row", "world", "draw", "even"]))
+print("결과 = ", solution(2, ["hello", "one", "even", "never", "row", "world", "draw", "even"]))

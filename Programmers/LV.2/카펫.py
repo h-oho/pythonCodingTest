@@ -6,3 +6,4 @@ def solution(brown, yellow):
             return [y+2, x+2]
         
 print("결과: {}".format(solution(8,1)))
+
